@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Poverty Point",
+    "lat": 32.6372,
+    "lng": -91.4085,
+    "region": "North America"
+  },
+  {
+    "name": "Cahokia Monks Mound",
+    "lat": 38.6601,
+    "lng": -90.0622,
+    "region": "North America"
+  },
+  {
+    "name": "Serpent Mound",
+    "lat": 39.0253,
+    "lng": -83.4303,
+    "region": "North America"
+  },
+  {
+    "name": "Chaco Canyon",
+    "lat": 36.0608,
+    "lng": -107.9612,
+    "region": "North America"
+  },
+  {
+    "name": "Newark Earthworks",
+    "lat": 40.0525,
+    "lng": -82.4327,
+    "region": "North America"
+  },
+  {
+    "name": "Teotihuacan",
+    "lat": 19.6925,
+    "lng": -98.8438,
+    "region": "North America"
+  },
+  {
+    "name": "Monte Alb\\u00e1n",
+    "lat": 17.0437,
+    "lng": -96.7679,
+    "region": "North America"
+  },
+  {
+    "name": "Chich\\u00e9n Itz\\u00e1",
+    "lat": 20.6843,
+    "lng": -88.5678,
+    "region": "North America"
+  },
+  {
+    "name": "Palenque",
+    "lat": 17.4838,
+    "lng": -92.0462,
+    "region": "North America"
+  },
+  {
+    "name": "Tula (Toltec)",
+    "lat": 20.065,
+    "lng": -99.3407,
+    "region": "North America"
+  },
+  {
+    "name": "Observer Ranch",
+    "lat": 38.4617,
+    "lng": -105.1015,
+    "region": "North America"
+  },
+  {
+    "name": "Nazca Lines",
+    "lat": -14.735,
+    "lng": -75.13,
+    "region": "South America"
+  },
+  {
+    "name": "Sacsayhuam\\u00e1n",
+    "lat": -13.5094,
+    "lng": -71.9828,
+    "region": "South America"
+  },
+  {
+    "name": "Machu Picchu",
+    "lat": -13.1631,
+    "lng": -72.545,
+    "region": "South America"
+  },
+  {
+    "name": "Puma Punku",
+    "lat": -16.5616,
+    "lng": -68.6803,
+    "region": "South America"
+  },
+  {
+    "name": "Tiwanaku",
+    "lat": -16.5544,
+    "lng": -68.6731,
+    "region": "South America"
+  },
+  {
+    "name": "Ollantaytambo",
+    "lat": -13.2581,
+    "lng": -72.2631,
+    "region": "South America"
+  },
+  {
+    "name": "Caral",
+    "lat": -10.8927,
+    "lng": -77.5205,
+    "region": "South America"
+  },
+  {
+    "name": "Easter Island",
+    "lat": -27.1258,
+    "lng": -109.2769,
+    "region": "South America"
+  },
+  {
+    "name": "Paracas Candelabra",
+    "lat": -13.7637,
+    "lng": -76.3322,
+    "region": "South America"
+  },
+  {
+    "name": "Chav\\u00edn de Hu\\u00e1ntar",
+    "lat": -9.5934,
+    "lng": -77.1773,
+    "region": "South America"
+  },
+  {
+    "name": "Atacama Giant",
+    "lat": -19.949,
+    "lng": -69.6333,
+    "region": "South America"
+  },
+  {
+    "name": "Stonehenge",
+    "lat": 51.1789,
+    "lng": -1.8262,
+    "region": "Europe"
+  },
+  {
+    "name": "Carnac Stones",
+    "lat": 47.5839,
+    "lng": -3.0614,
+    "region": "Europe"
+  },
+  {
+    "name": "\\u0120gantija Temples",
+    "lat": 36.0475,
+    "lng": 14.269,
+    "region": "Europe"
+  },
+  {
+    "name": "Newgrange",
+    "lat": 53.6947,
+    "lng": -6.4754,
+    "region": "Europe"
+  },
+  {
+    "name": "G\\u00f6bekli Tepe",
+    "lat": 37.2231,
+    "lng": 38.9224,
+    "region": "Europe"
+  },
+  {
+    "name": "Knossos",
+    "lat": 35.298,
+    "lng": 25.1631,
+    "region": "Europe"
+  },
+  {
+    "name": "Skara Brae",
+    "lat": 59.0488,
+    "lng": -3.3415,
+    "region": "Europe"
+  },
+  {
+    "name": "Externsteine",
+    "lat": 51.8689,
+    "lng": 8.9169,
+    "region": "Europe"
+  },
+  {
+    "name": "The Flagstones",
+    "lat": 50.7155,
+    "lng": -2.434,
+    "region": "Europe"
+  },
+  {
+    "name": "Mount Pleasant Henge",
+    "lat": 50.7078,
+    "lng": -2.4238,
+    "region": "Europe"
+  },
+  {
+    "name": "Great Pyramid of Giza",
+    "lat": 29.9792,
+    "lng": 31.1342,
+    "region": "Africa & Near East"
+  },
+  {
+    "name": "Khafre Pyramid",
+    "lat": 29.9761,
+    "lng": 31.1308,
+    "region": "Africa & Near East"
+  },
+  {
+    "name": "Sphinx",
+    "lat": 29.9753,
+    "lng": 31.1376,
+    "region": "Africa & Near East"
+  },
+  {
+    "name": "Saqqara",
+    "lat": 29.8712,
+    "lng": 31.2164,
+    "region": "Africa & Near East"
+  },
+  {
+    "name": "Great Zimbabwe",
+    "lat": -20.2712,
+    "lng": 30.9338,
+    "region": "Africa & Near East"
+  },
+  {
+    "name": "Tassili n'Ajjer",
+    "lat": 25.5,
+    "lng": 9.0,
+    "region": "Africa & Near East"
+  },
+  {
+    "name": "Nabta Playa",
+    "lat": 22.532,
+    "lng": 30.7083,
+    "region": "Africa & Near East"
+  },
+  {
+    "name": "Baalbek",
+    "lat": 34.0069,
+    "lng": 36.2039,
+    "region": "Africa & Near East"
+  },
+  {
+    "name": "Petra",
+    "lat": 30.3285,
+    "lng": 35.4444,
+    "region": "Africa & Near East"
+  },
+  {
+    "name": "Lalibela",
+    "lat": 12.0319,
+    "lng": 39.0425,
+    "region": "Africa & Near East"
+  },
+  {
+    "name": "Tel Qaramel",
+    "lat": 36.5167,
+    "lng": 37.0333,
+    "region": "Africa & Near East"
+  },
+  {
+    "name": "Persepolis",
+    "lat": 29.9352,
+    "lng": 52.8914,
+    "region": "Middle East & Central Asia"
+  },
+  {
+    "name": "Mohenjo-daro",
+    "lat": 27.3242,
+    "lng": 68.1386,
+    "region": "Middle East & Central Asia"
+  },
+  {
+    "name": "Ur",
+    "lat": 30.9627,
+    "lng": 46.1031,
+    "region": "Middle East & Central Asia"
+  },
+  {
+    "name": "Eridu",
+    "lat": 30.8167,
+    "lng": 45.9833,
+    "region": "Middle East & Central Asia"
+  },
+  {
+    "name": "Mehrgarh",
+    "lat": 29.35,
+    "lng": 67.6167,
+    "region": "Middle East & Central Asia"
+  },
+  {
+    "name": "Angkor Wat",
+    "lat": 13.4125,
+    "lng": 103.867,
+    "region": "East & Southeast Asia"
+  },
+  {
+    "name": "Gunung Padang",
+    "lat": -6.9942,
+    "lng": 107.0564,
+    "region": "East & Southeast Asia"
+  },
+  {
+    "name": "Borobudur",
+    "lat": -7.6079,
+    "lng": 110.2038,
+    "region": "East & Southeast Asia"
+  },
+  {
+    "name": "Yonaguni Monument",
+    "lat": 24.4351,
+    "lng": 123.0108,
+    "region": "East & Southeast Asia"
+  },
+  {
+    "name": "Sanchi Stupa",
+    "lat": 23.4793,
+    "lng": 77.7398,
+    "region": "East & Southeast Asia"
+  },
+  {
+    "name": "Nan Madol",
+    "lat": 6.8443,
+    "lng": 158.3344,
+    "region": "East & Southeast Asia"
+  },
+  {
+    "name": "Sukhothai",
+    "lat": 17.0208,
+    "lng": 99.7015,
+    "region": "East & Southeast Asia"
+  },
+  {
+    "name": "Preah Vihear",
+    "lat": 14.392,
+    "lng": 104.6797,
+    "region": "East & Southeast Asia"
+  }
+]
